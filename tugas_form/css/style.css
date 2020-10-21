@@ -10,6 +10,10 @@ body
     color: #666666;
     font-size: 20px;
     font-family: 'Athiti', sans-serif;
+    background: url(../image/1080.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 h1,
@@ -17,11 +21,11 @@ h2,
 h3
 {
 	font-weight: normal;
-    position: relative;
-    font-weight: normal;
-    line-height: 120% !important;
-    color: #1f1f1f;
-    text-align: center;
+    	position: relative;
+    	font-weight: normal;
+    	line-height: 120% !important;
+    	color: #1f1f1f;
+    	text-align: center;
 
 }
 
@@ -40,14 +44,15 @@ textarea
 
 .container
 {
-	background: #fbfbfb;
-    border-radius: 8px;
-    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
-    height: 100%;
-    margin: 3px auto 3px auto;
-    width: 100%;
-    max-width: 400px;
-    padding: 20px 25px;
+	background-color: #fbfbfb;
+	opacity: 0.9;
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+	height: 100%;
+	margin: 3px auto 3px auto;
+	width: 100%;
+	max-width: 400px;
+	padding: 20px 25px;
 }
 
 .container h1
@@ -80,11 +85,11 @@ textarea
 {
 	width: 100%;
 	height: 100%;
-    padding: 20px 0;
-    border: none;
-    background-color:#2979ff;
-    font-size: 18px;
-    color: #fafafa;
+   	padding: 20px 0;
+  	border: none;
+    	background-color:#2979ff;
+    	font-size: 18px;
+    	color: #fafafa;
 }
 
 .container-text input
@@ -103,7 +108,5 @@ textarea
 {
 	margin-left: 20px;
 }
-
-
 
 /*----------------------------------*/
