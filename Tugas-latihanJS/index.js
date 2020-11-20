@@ -1,3 +1,8 @@
+/*nama Kelompok:
+Ida Bagus Gagananta Amartya (1808561087)
+I Made Nusa Yudiskara (1808561090)
+I Kadek Aldy Oka Ardita (1808571091)
+
 /*1.
 Description:
 Write the function squareArea(A) (square_area($A) in PHP) that finds the area of the red square when you have the length of the circular arc A.
