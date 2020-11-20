@@ -1,7 +1,7 @@
 /*nama Kelompok:
 Ida Bagus Gagananta Amartya (1808561087)
 I Made Nusa Yudiskara (1808561090)
-I Kadek Aldy Oka Ardita (1808571091)
+I Kadek Aldy Oka Ardita (1808571091)*/
 
 /*1.
 Description:
