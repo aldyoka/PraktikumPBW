@@ -1,0 +1,127 @@
+/* Import font */
+@import url('https://fonts.googleapis.com/css?family=Arbutus+Slab');
+@import url('https://fonts.googleapis.com/css?family=Athiti:400,500,600');
+/*----------------------------------*/
+
+/* start styling */
+
+body 
+{
+    font-size: 20px;
+    font-family: 'Athiti', sans-serif;
+    background-size: 100%;
+    background-color: #000;
+    background-repeat: no-repeat;
+}
+.bg
+{
+	background: url(../img/Logo-Halcyon.jpg);
+	background-position:center;
+	background-size: 60%;
+	background-repeat: no-repeat;
+	padding: 20px;
+	margin:20px;
+
+}
+.bg-2
+{
+	background: url(../img/Logo-Halcyon.jpg);
+	background-position:center;
+	background-size: 40%;
+	background-repeat: no-repeat;
+	padding: 40px;
+	margin: 50px;
+
+}
+
+
+h1,
+h2,
+h3
+{
+	font-weight: normal;
+    position: relative;
+    font-weight: normal;
+    line-height: 120% !important;
+    color: #1f1f1f;
+    text-align: center;
+
+}
+.container
+{
+	background-color: #fbfbfb;
+	opacity: 0.9;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 100%;
+    margin: 3px auto 3px auto;
+    width: 100%;
+    max-width: 400px;
+    padding: 20px 25px;
+    margin-top: 10%; 
+}
+
+.container h1
+{
+	text-align: center;
+	margin-bottom: 30px;
+	text-transform: uppercase;
+	border-bottom: 3px solid black; 
+}
+
+.container select
+{
+	width: calc(100% - 50px);
+	height: 30px;
+	margin-left: 20px;
+	border: none;
+	border-bottom: 2px solid blue;
+	background-color: transparent;
+	font-size: 15px;
+	margin-bottom: 10px;
+
+}
+
+.container label
+{
+	text-align: left;
+}
+
+.container form button
+{
+	width: 100%;
+	height: 100%;
+    padding: 20px 0;
+    border: none;
+    background-color:#2979ff;
+    font-size: 18px;
+    color: #fafafa;
+}
+.container form button:hover
+{
+    background-color:#000;
+    font-size: 18px;
+    color: #fafafa;
+    transition-duration: 0.4s;
+}
+
+.container-text input
+{
+	width: calc(100% - 20px);
+	padding: 8px 10px;
+	margin-bottom: 15px;
+	border: none;
+	background-color: transparent;
+	border-bottom: 2px solid blue;
+	color: black;
+	font-size: 18px;
+}
+
+.container-bottom input
+{
+	margin-left: 20px;
+}
+
+
+
+/*----------------------------------*/
